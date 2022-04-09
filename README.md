@@ -10,7 +10,8 @@
 [![HTML CSS](https://img.shields.io/badge/HTML-CSS-<COLOR>.svg)](https://shields.io/)
 
 As part of the Appleseeds bootcamp we were requiered to clone Amazon's product page, using only HTML&CSS, <br />
-I chose to clone this product page:<br /> shorturl.at/nHX24
+I chose to clone this product page:<br /> 
+https://cutt.ly/8FlwNJM
 
 ## First half of the page
 
