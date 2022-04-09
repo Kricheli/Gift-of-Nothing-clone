@@ -1,0 +1,18 @@
+:root {
+        --font-black: #0f1111;
+        --font-gray: #565959;
+        --font-white: #fff;
+        --font-green: rgb(91, 158, 88);
+        --header-bg-color: #131921;
+        --nav-bg-color: #232f3e;
+        --link-gray-color: #007185;
+        --nav-search-color: #febd69;
+        --btn-orange: #ed9220;
+        --btn-light-orange: #f0c14b;
+        --btn-border: #a88734;
+        --price-color: #b12704;
+        --product-style-bg-color: #fefaf6;
+        --border-color: #cccccc;
+        --search-bar-select: #dadada;
+        --footer-top-color: #37475a;
+      }
