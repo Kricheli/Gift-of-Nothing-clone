@@ -9,7 +9,7 @@
 
 [![HTML CSS](https://img.shields.io/badge/HTML-CSS-<COLOR>.svg)](https://shields.io/)
 
-As part of the bootcamp we were requiered to clone Amazon's product page, using only HTML&CSS.
+As part of the Appleseeds bootcamp we were requiered to clone Amazon's product page, using only HTML&CSS.
 
 ## Upper half of the page
 
