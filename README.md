@@ -17,7 +17,7 @@ https://cutt.ly/8FlwNJM
 
 ![Upper-Image](https://i.postimg.cc/gk4zjVqV/bg-img.png)
 
-<br />
+
 ## Second half of the page
 ![Second-Image](https://i.postimg.cc/SNmQmT8Q/bottom-half.png)
 
