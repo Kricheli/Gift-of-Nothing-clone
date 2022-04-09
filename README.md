@@ -1,10 +1,22 @@
 # Amazon product-page clone
+
+
+![amazon.gif](https://c.tenor.com/5qLlvFFnMCwAAAAC/amazon-package.gif)
+
+
+
+
+
 [![HTML CSS](https://img.shields.io/badge/HTML-CSS-<COLOR>.svg)](https://shields.io/)
 
 As part of the bootcamp we were requiered to clone Amazon's product page, using only HTML&CSS.
-![Upper-Image](https://postimg.cc/HVcDP7Nn][img]https://i.postimg.cc/HVcDP7Nn/bg-img.PNG)
+
+## Upper half of the page
+
+![Upper-Image](https://i.postimg.cc/gk4zjVqV/bg-img.png)
 
 
+## Second half of the page
+![Second-Image](https://i.postimg.cc/SNmQmT8Q/bottom-half.png)
 
-![amazon.gif](https://cdn.dribbble.com/users/954572/screenshots/16765270/media/9265ca52c0278b81ce7e656f8f3356ce.gif)
 
