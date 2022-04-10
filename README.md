@@ -13,12 +13,12 @@ As part of the Appleseeds bootcamp we were requiered to clone Amazon's product p
 I chose to clone this product page:<br /> 
 https://cutt.ly/8FlwNJM
 
-## First half of the page
+## First half of the mockup page
 
 ![Upper-Image](https://i.postimg.cc/gk4zjVqV/bg-img.png)
 
 
-## Second half of the page
+## Second half of the mockup page
 ![Second-Image](https://i.postimg.cc/SNmQmT8Q/bottom-half.png)
 <br /><br /><br /><br />
 ____________________________________________________________________________________________________________________________________________________________________
